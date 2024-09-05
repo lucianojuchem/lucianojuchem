@@ -4,7 +4,7 @@ Sou apaixonado por criar soluções inovadoras.
 
 **Habilidades:**
 
-* **Linguagens:** Python, JavaScript, C#, SQL
+* **Linguagens:** Python, JavaScript, C#, SQL, CSS, HTML
 * **Ferramentas:** VS Code
 
 **Contato:**
