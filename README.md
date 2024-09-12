@@ -4,8 +4,8 @@ Sou apaixonado por criar soluções inovadoras.
 
 **Habilidades:**
 
-* **Linguagens:** Python, JavaScript, C#, SQL, CSS, HTML
-* **Ferramentas:** VS Code
+* **Linguagens:** Python, JavaScript, CSS, HTML, C#, SQL,
+* **Ferramentas:** VS Code, Google Colab
 
 **Contato:**
 
@@ -14,4 +14,4 @@ Sou apaixonado por criar soluções inovadoras.
 
 **Sobre mim:**
 
-Além de programar, gosto de esportes americanos.
+Além de programar, gosto de esportes em geral, inclusive os esportes americanos.
