@@ -1,10 +1,10 @@
 ##  Olá, eu sou o Luciano!
 
-Sou apaixonado por criar soluções inovadoras.
+Sou apaixonado por aprender tecnologias novas e criar soluções inovadoras.
 
 **Habilidades:**
 
-* **Linguagens:** Python, JavaScript, CSS, HTML, C#, SQL,
+* **Linguagens:** Python, JavaScript, CSS, HTML, NoSQL
 * **Ferramentas:** VS Code, Google Colab
 
 **Contato:**
